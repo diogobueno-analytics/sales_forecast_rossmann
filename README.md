@@ -16,3 +16,14 @@ Para planejar um ciclo de reformas, o CFO da empresa precisa saber com antecedê
 - Análise Exploratória de Dados (EDA)
 - Forecast com ML "Prophet"
 - Conclusões 
+
+### Tecnologias Utilizadas
+
+- kagglehub
+- pandas
+- matplotlib.pyplot
+- seaborn
+- sklearn
+- VS Code
+- Jupyter Notebook
+- GitHub Desktop (versionamento) 
