@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com foco no desenvolvimento do meu portfólio de a
 A Rossmann é uma das maiores redes de farmacias da Europa, com mais de 3.000 lojas em operação. 
 Para planejar um ciclo de reformas, o CFO da empresa precisa saber com antecedência quanto cada loja vai faturar nas próximas seis semanas, informação essencial para uma alocação de orçamento inteligente. O objetivo deste projeto é construir um modelo que gere um forecast, que faça essa previsão.
 
-![Rossmann](https://www.across-magazine.com/wp-content/uploads/2024/01/rossmann-600x400-1.png)
+<img src="https://www.across-magazine.com/wp-content/uploads/2024/01/rossmann-600x400-1.png" width="400"/>
 
 ### Perguntas de negócio a serem respondidas
     1. Quanto cada loja vai vender nos próximos 90 dias?
