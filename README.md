@@ -1,4 +1,5 @@
 ## Rossmann case - Forecast Sales analysis
+Obs: Projeto pelo link acima "sales_forecast_analysis.ipynb"
 
 Este projeto foi desenvolvido com foco no desenvolvimento do meu portfólio de análise de dados, demonstrando minhas habilidades em Análise Exploratória de Dados com Python e utilização de estatística e algum metodo deprevisão, para gerar o Forecast de 90 dias. Base de dados oferecida pela Kagge https://www.kaggle.com/competitions/rossmann-store-sales/data
 
